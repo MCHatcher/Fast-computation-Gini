@@ -1,2 +1,2 @@
 # Fast-computation-Gini
-Fast computation of the Gini coefficient
+This repository provides code for fast computation of the Gini coefficient using bsxfun.
