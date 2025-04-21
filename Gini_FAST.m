@@ -1,4 +1,4 @@
-%Code for fast computation of the Gini coefficient using bsxfun
+%Code for computation of the Gini coefficient using bsxfun
 %Last updated: Feb 12, 2024. Written by Michael Hatcher (m.c.hatcher@soton.ac.uk)
 
 clear, clc

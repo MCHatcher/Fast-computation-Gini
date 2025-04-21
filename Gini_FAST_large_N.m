@@ -1,4 +1,4 @@
-%Code for very fast computation of the Gini coefficient when N is large enough
+%Code for efficient computation of the Gini coefficient when N is large 
 %Last updated: Apr 21, 2025. Written by Michael Hatcher (m.c.hatcher@soton.ac.uk)
 
 clear, clc
