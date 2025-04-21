@@ -1,5 +1,4 @@
-%Code for fast computation of the Gini coefficient when N is large enough
-%that bsxfun fails due to memory contraints or is otherwise slow
+%Code for very fast computation of the Gini coefficient when N is large enough
 %Last updated: Apr 21, 2025. Written by Michael Hatcher (m.c.hatcher@soton.ac.uk)
 
 clear, clc
