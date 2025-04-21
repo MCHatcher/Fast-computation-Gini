@@ -3,6 +3,8 @@
 
 clear, clc
 
+tic
+
 N = 5000; %No. of individuals
 Wealth_vec = linspace(realmin,1E6,N);  %Wealth distribution
 
@@ -14,3 +16,4 @@ sum_tot = sum(Diff_mat,1);
     
 Gini = sum(sum_tot)/(2*(length(Wealth_vec))^2*mean(Wealth_vec))
     
+toc
