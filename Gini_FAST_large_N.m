@@ -5,7 +5,7 @@ clear, clc
 
 tic
 
-N = 50000; %No. of individuals
+N = 5000; %No. of individuals
 Wealth_vec = linspace(realmin,1E6,N);  %Wealth distribution
 Wealth_vec = Wealth_vec';
 
